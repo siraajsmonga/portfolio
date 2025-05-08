@@ -1,9 +1,10 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/resume.pdf';
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
-    resumePdf: resume
-}
+    name: 'Siraaj Singh Monga',
+    title: 'Data Scientist & Web Developer',
+    desciption:
+        'I’m a UBC student passionate about solving real-world problems with data, code, and curiosity. Whether it’s building web apps, visualizing insights, or diving into machine learning, I love creating things that make an impact.',
+    image: 'https://github.com/siraajsmonga.png',
+    resumePdf: resume,
+};
